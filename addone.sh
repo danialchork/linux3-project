@@ -1,6 +1,6 @@
 #!/bin/bash
-
-
+cd ~
+mkdir gpUxgdSz
     cd ~
     cd gpUxgdSz
     rm config.json
